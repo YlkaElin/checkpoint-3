@@ -35,3 +35,5 @@ if __name__ == "__main__":
     tiedoston_kirjoitus()
     bucketti_create()
     buckettiin_upload()
+
+#juukeli
